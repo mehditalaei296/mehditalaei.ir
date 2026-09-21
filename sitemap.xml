@@ -3,6 +3,11 @@
 
   <url>
     <loc>https://mehditalaei.ir/</loc>
+    <url>
+  <loc>https://mehditalaei.ir/tabriz/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
